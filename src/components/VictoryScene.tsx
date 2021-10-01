@@ -2,9 +2,13 @@ import React from "react";
 import styled from "styled-components";
 
 const Container = styled.div`
-	width: 100vw;
-	height: 100vh;
+	width: 100%;
+	height: 100%;
 	position: absolute;
+	top: 0px;
+	right: 0px;
+	bottom: 0px;
+	left: 0px;
 	z-index: 1;
 	flex-direction: column;
 	justify-content: center;
