@@ -1,0 +1,54 @@
+{
+  "kirby": [
+    {
+      "imgUrl": "https://i.pinimg.com/564x/81/a0/ac/81a0ac47dc3b5f2f6c5fbc2dadc66868.jpg",
+      "cardName": "Cook",
+      "color": "#EE6123"
+    },
+    {
+      "imgUrl": "https://i.pinimg.com/564x/2c/4a/d8/2c4ad823a6fb0a29816e43db5099850c.jpg",
+      "cardName": "Sword",
+      "color": "#00916E"
+    },
+    {
+      "imgUrl": "https://i.pinimg.com/564x/3e/3a/59/3e3a59a096d1f5410ac1162d22a43da2.jpg",
+      "cardName": "Cutter",
+      "color": "#FFCF00"
+    },
+    {
+      "imgUrl": "https://i.pinimg.com/564x/54/37/4d/54374dfcfa8d4c99f4c2188e30b5090c.jpg",
+      "cardName": "Parasol",
+      "color": "#D90368"
+    },
+    {
+      "imgUrl": "https://i.pinimg.com/564x/6e/82/de/6e82de93d51e7aa009bb2c3311f59ed0.jpg",
+      "cardName": "Wheel",
+      "color": "#454ADE"
+    },
+    {
+      "imgUrl": "https://i.pinimg.com/564x/95/1f/08/951f0875e33b71aeb99df074be550964.jpg",
+      "cardName": "Fighter",
+      "color": "#9EE493"
+    },
+    {
+      "imgUrl": "https://i.pinimg.com/564x/6f/79/f2/6f79f2dc275ec0cc9db0797d26217370.jpg",
+      "cardName": "Ice",
+      "color": "#7DE2D1"
+    },
+    {
+      "imgUrl": "https://i.pinimg.com/564x/2d/d7/ab/2dd7ab7a9753fef59e2d559b5f7c3698.jpg",
+      "cardName": "Ninja",
+      "color": "#B388EB"
+    },
+    {
+      "imgUrl": "https://i.pinimg.com/564x/f9/e0/03/f9e0036624ff557d9c6a34780a94d90a.jpg",
+      "cardName": "Fire",
+      "color": "#FA003F"
+    },
+    {
+      "imgUrl": "https://i.pinimg.com/564x/13/8b/a3/138ba3a3180d6aae1330ec28003f7688.jpg",
+      "cardName": "Mirror",
+      "color": "#F7A9A8"
+    }
+  ]
+}
