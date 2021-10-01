@@ -74,7 +74,7 @@ const App = () => {
 
 			<CardContainer playerMove={playerMove} />
 
-			{score === 10 ? <VictoryScene onClick={afterVictory} /> : null}
+			<VictoryScene onClick={afterVictory} display={score === 10} />
 		</AppContainer>
 	);
 };
